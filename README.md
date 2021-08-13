@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rasyad (@rasyadmr). I am a student of computer science at Bina Nusantara University.
+- 👋 Hi, I’m Rasyad (@rasyadmr). I am a student of Computer Science and Statistics at Bina Nusantara University.
 - 👀 I’m interested in learning anything around coding.
 - 🌱 I’m currently learning to be a data scientist.
 - 💞️ I’m looking for someone that can be my coding friend and also become my mentor.
